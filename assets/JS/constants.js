@@ -461,7 +461,7 @@ const allProducts = [
         use: "Emulsionner chaque jour sur peau mouillée.",
     },
     {
-        ref:40,
+        ref: 40,
         category: "Les Indispensables Forever",
         cat: "indispensables",
         name: "Aloe First",
@@ -473,7 +473,7 @@ const allProducts = [
         use: "Avant l'application de soins cosmétiques et à tout moment de la journée pour hydrater* la peau. En été, pour rafraîchir la peau après le soleil.",
     },
     {
-        ref:28,
+        ref: 28,
         category: "Les Indispensables Forever",
         cat: "indispensables",
         name: "Forever Bright Toothgel",
@@ -485,7 +485,7 @@ const allProducts = [
         use: "Pour un soin complet, se brosser les dents après chaque repas et prendre régulièrement rendez-vous chez le dentiste.",
     },
     {
-        ref:22,
+        ref: 22,
         category: "Les Indispensables Forever",
         cat: "indispensables",
         name: "Aloe Lèvres",
@@ -497,7 +497,7 @@ const allProducts = [
         use: "Appliquer sur les lèvres dès que le besoin se fait sentir.",
     },
     {
-        ref:617,
+        ref: 617,
         category: "Les Solaires",
         cat: "solaires",
         name: "Aloe Sunscreen",
@@ -509,7 +509,7 @@ const allProducts = [
         use: "Appliquer uniformément et généreusement sur la peau avant toute exposition au soleil. Renouveler l’application toutes les 2 heures. Il est conseillé d'éviter les expositions aux heures d’ensoleillement maximum, entre 12h et 16h.",
     },
     {
-        ref:205,
+        ref: 205,
         category: "Corps & Cheveux",
         cat: "corps",
         name: "Aloe MSM Gel ",
@@ -521,7 +521,7 @@ const allProducts = [
         use: "Appliquer en massages généreux sur les zones inconfortables.",
     },
     {
-        ref:640,
+        ref: 640,
         category: "Corps & Cheveux",
         cat: "corps",
         name: "Shampoing Aloe-Jojoba",
@@ -533,7 +533,7 @@ const allProducts = [
         use: "Déposer une noix de produit les cheveux et sur le cuir chevelu, masser puis rincer. Répéter l'opération si nécessaire. Pour de meilleurs résultats, utiliser l'Après Shampoing Aloe-Jojoba.",
     },
     {
-        ref:641,
+        ref: 641,
         category: "Corps & Cheveux",
         cat: "corps",
         name: "Apres-Shampoing Aloe-Jojoba",
@@ -545,7 +545,7 @@ const allProducts = [
         use: "Appliquer une noix de produit sur l'ensemble de la chevelure en insistant sur les pointes. Laisser agir quelques minutes avant de rincer abondamment.",
     },
     {
-        ref:647,
+        ref: 647,
         category: "Corps & Cheveux",
         cat: "corps",
         name: "Aloe Body Lotion",
@@ -557,7 +557,7 @@ const allProducts = [
         use: "Appliquer quotidiennement sur une peau propre et sèche sur l'ensemble du corps, en insistant sur les zones sèches. Masser jusqu'à complète absorption de l'émulsion.",
     },
     {
-        ref:646,
+        ref: 646,
         category: "Corps & Cheveux",
         cat: "corps",
         name: "Aloe Body Wash",
@@ -569,7 +569,7 @@ const allProducts = [
         use: "Appliquer sur une houppette de douche, un luffa ou une éponge et savonner délicatement tout le corps en effectuant des mouvements circulaires. Bien rincer.",
     },
     {
-        ref:564,
+        ref: 564,
         category: "Corps & Cheveux",
         cat: "corps",
         name: "Aloe Cooling Lotion",
@@ -581,7 +581,7 @@ const allProducts = [
         use: "Appliquer généreusement sur les zones nécessaires et masser pour faire pénétrer.",
     },
     {
-        ref:522,
+        ref: 522,
         category: "Corps & Cheveux",
         cat: "corps",
         name: "Aloe Jojoba Conditioning",
@@ -591,6 +591,18 @@ const allProducts = [
         volume: "296 ml",
         content: "Aloe Vera (37,3%) ",
         use: "Laver les cheveux à l'aide du Shampoing Aloe Jojoba puis appliquer l'Après Shampoing Aloe Jojoba et laisser poser 2 à 3 minutes. Rincer soigneusement et sécher les cheveux.",
+    },
+    {
+        ref: 376,
+        category: "Nutrition",
+        cat: "nutrition",
+        name: "Forever Arctic Sea",
+        price: 42.44,
+        description:
+            "La recrudescence des fast-foods et les repas pris rapidement sur le pouce ne nous encouragent pas à entretenir une alimentation saine et équilibrée. Forever Arctic-Sea se compose d’acides gras insaturés, l’EPA (acide eicosapentaénoïque) et le DHA (acide docosahexaénoïque) présents dans les huiles de poissons et de calamar, et qui font partie de la famille des Oméga-3. Ces acides gras sont dits « essentiels » car l’organisme ne sait pas les synthétiser. Il est nécessaire d’en consommer car le DHA contribue au fonctionnement normal du cerveau aide à maintenir une vision normale. L’EPA et le DHA contribuent à une fonction normale du cœur.",
+        volume: "120 capsules, poids net 78g",
+        content: "45.91 % d’huile de poissons, 16.69 % d’huile de calamar, 11.31% d’huile d’olive extra vierge.",
+        use: "Prendre 2 capsules 3 fois par jour de préférence pendant les repas, soit 6 capsules par jour. Déconseillé aux femmes enceintes et allaitantes et aux enfants de moins de 6 ans.",
     },
 ];
 
