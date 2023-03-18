@@ -393,10 +393,10 @@ const allProducts = [
         ref: 506,
         category: "Huiles Essentielles",
         cat: "huiles",
-        name: "Huile essentielle Lavande vraie",
+        name: "Huile essentielle Lavande Vraie",
         price: 31.75,
         description:
-            "L'huile essentielle de de Lavande Vraie Forever est issue de la lavande cultivée et récoltée en Bulgarie. Avec son arôme fruité et doux, elle sera l'allié parfait pour un moment de détente.",
+            "L'huile essentielle de Lavande Vraie Forever est issue de la lavande cultivée et récoltée en Bulgarie. Avec son arôme fruité et doux, elle sera l'allié parfait pour un moment de détente.",
         volume: "15 ml",
         content: "100% huile essentielle de lavande",
         use: "Peut être utilisée dans un diffuseur, sur un tissu ou un morceau de coton ou ajoutée à un produit ménager, un aspirateur sur le filtre ou tout autre support de diffusion. En diffusion, nous conseillons de la diluer dans d’autres huiles essentielles. Précautions d'emploi : Tenir hors de portée des enfants. En cas d'ingestion : appeler immédiatement le centre antipoison ou un médecin. En cas de contact avec les yeux : rincer avec précaution à l'eau pendant plusieurs minutes. Enlever les lentilles de contact si la victime en porte, et si elles peuvent être facilement enlevées. Continuer à rincer. En cas d'irritation ou d'éruption cutanée : consulter un médecin. Eliminer le contenu ou récipient dans les déchets domestiques. Ne pas diffuser en continu dans une pièce fermée.",

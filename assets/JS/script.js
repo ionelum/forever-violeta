@@ -34,8 +34,8 @@ function printCategories() {
                         class="d-block w-100"
                         alt="..."
                     />
-                    <div class="carousel-caption">
-                        <h3 class="fw-bold fs-1">${allCategories[i].name}</h3>
+                    <div class="carousel-caption my-carousel-caption" id="test">
+                        <h3 class="fw-bold fs-2">${allCategories[i].name}</h3>
                     </div>
                 </div>
             </div>
@@ -46,6 +46,7 @@ function printCategories() {
             .querySelectorAll(".catImage")
             [i].addEventListener("click", printProducts);
     }
+    console.log(document.querySelector("#test").display);
 }
 
 for (let i = 0; i < document.querySelectorAll(".dropdown-item").length; i++) {
