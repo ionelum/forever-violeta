@@ -7,13 +7,23 @@ h4 {
     text-shadow: rgb(0, 0, 0) 2px 0 2px;
 }
 
-.myBoutique {
+/* .myBoutique {
     position: fixed;
     top: -4px;
     right: 10px;
     transition: all 0.3s ease-in-out;
     z-index: 10;
-}
+} */
+
+/* @media (max-width: 576px) {
+    .myBoutique {
+        position: fixed;
+        top: -4px;
+        left: 10px;
+        transition: all 0.3s ease-in-out;
+        z-index: 10;
+    }
+} */
 
 .myBoutique:hover {
     font-size: 1.2rem;
@@ -21,10 +31,10 @@ h4 {
 
 .navbar {
     font-size: 1.2rem;
-    font-weight: 900;
+    font-weight: 600;
 }
 
-.semiTransp {
+/* .semiTransp {
     background-color: rgb(255, 200, 0, 0.60);
     z-index: 9;
     transition: all 0.3s ease-in-out;
@@ -32,7 +42,7 @@ h4 {
 
 .semiTransp:hover {
     background-color: rgb(255, 200, 0);
-}
+} */
 
 @media (min-width: 576px) {
     .dropdown-menu {
@@ -52,8 +62,8 @@ h4 {
 
     .myDropdown {
         width: 60rem;
-        /* font-weight: 700; */
     }
+
 }
 
 .dropdown-toggle::after {
