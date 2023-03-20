@@ -129,7 +129,7 @@ function printProducts() {
                         <div class="modal-body">
                             <div class="container-fluid">
                                 <div class="row text-center align-items-center">
-                                    <div class="col-5">
+                                    <div class="col-lg-5 col-sm-12 col-xs-12">
                                         <img
                                             src="assets/img/${this.id}/${
                 allProducts[i].ref
@@ -138,7 +138,7 @@ function printProducts() {
                                             class="w-100"
                                         />
                                     </div>
-                                    <div class="col-7 px-3">
+                                    <div class="col-lg-7 col-sm-12 col-xs-12 px-0 px-md-3">
                                         <p class="my-4">
                                         ${allProducts[i].description}
                                         </p>
@@ -171,18 +171,18 @@ function printProducts() {
                         <div class="modal-footer">
                             <button
                                 type="button"
-                                class="btn btn-lg btn-secondary"
+                                class="btn btn-secondary"
                                 data-bs-dismiss="modal"
                             >
                                 Fermer
                             </button>
                             <button
                                 type="button"
-                                class="btn btn-lg btn-success"
+                                class="btn btn-success"
                             >
                                 Acheter
                             </button>
-                            <button type="button" class="btn btn-lg btn-primary">
+                            <button type="button" class="btn btn-primary">
                                 Vendre
                             </button>
                         </div>
