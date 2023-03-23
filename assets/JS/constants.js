@@ -153,7 +153,7 @@ const allProducts = [
         ref: 3715,
         category: "Les bases du bien-être",
         cat: "bienetre",
-        name: "Tripack - Pulpe d'Aloe vera ",
+        name: "Tripack - Pulpe d'Aloe vera",
         price: 106.51,
         description:
             "Délicieusement aromatisé à l’orange, Forever Freedom est une formule unique et originale qui, grâce à la vitamine C, contribue à la formation normale du collagène ainsi qu’à la fonction normale des os et des cartilages.",
@@ -1176,7 +1176,7 @@ const allProducts = [
         ref: 561,
         category: "Visage",
         cat: "visage",
-        name: "Creme Contour des Yeux - Les Soins Specifiques",
+        name: "Creme Contour des Yeux",
         price: 22.0,
         description:
             "Découvrez le secret d’un regard sublimé ! La Crème Contour des Yeux offre une approche globale du soin du contour de l’œil en liftant visiblement les paupières et réduisant les poches et les cernes grâce à un complexe d’actifs brevetés. De plus, il va plus loin en estompant visiblement les pattes d’oie et ridules. Résultat, un regard défatigué et sublimé !",
@@ -1485,6 +1485,11 @@ const allCategories = [
     },
 
     {
+        cat: "corps",
+        name: "Corps et Cheveux",
+    },
+
+    {
         cat: "solaires",
         name: "Les solaires",
     },
@@ -1497,11 +1502,6 @@ const allCategories = [
     {
         cat: "huiles",
         name: "Les huiles essentielles",
-    },
-
-    {
-        cat: "bienetre",
-        name: "Les bases du bien-etre",
     },
 
     {

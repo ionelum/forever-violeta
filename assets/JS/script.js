@@ -72,7 +72,7 @@ function printProducts() {
     for (let i = 0; i < allProducts.length; i++) {
         if (this.id == allProducts[i].cat) {
             productList.innerHTML += `
-        <div class="col-sm-3 mb-3 mb-sm-0 px-1 text-center">
+    <div class="col-sm-3 mb-3 mb-sm-0 px-1 text-center">
         <div
             class="card productCard p-0"
             data-bs-toggle="modal"
